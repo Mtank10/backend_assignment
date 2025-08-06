@@ -1,4 +1,4 @@
-#  Backend API
+#  User Management REST API
 
 A RESTful API built with **Node.js**, **Express**, **Prisma**, and **PostgreSQL** that manages Users, their Addresses, and associated Geo locations. 
 Supports validation with **Zod** and includes full CRUD operations.
